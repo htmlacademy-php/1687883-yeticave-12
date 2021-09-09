@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Денис](https://up.htmlacademy.ru/php/12/user/1687883).
-* Наставник: `Неизвестно`.
+* Наставник: [Анатолий Пашин](https://htmlacademy.ru/profile/id1200767).
 
 ---
 
